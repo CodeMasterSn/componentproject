@@ -1,0 +1,26 @@
+.App {
+  background-color: black;
+  color: white;
+}
+
+.profile img{
+  margin: 50px;
+  width: 20%;
+  height: 20%;
+  border-radius: 50%;
+  border: 10px solid crimson;
+  margin-right: 15px;
+  padding: 10px;
+}
+
+.name, .adressName {
+  text-align: left;
+  position: absolute;
+  top: 20%;
+  left: 30%;
+}
+
+.adressName{
+  margin-top: 50px;
+}
+
